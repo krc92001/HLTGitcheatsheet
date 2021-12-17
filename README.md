@@ -19,7 +19,7 @@
 ## Commands to know:
 
 ``` git commit``` - This commits changes to the local repository and stages for a push
-<center>Options</center> 
+<p align="center"> Options</p> 
 
 ***
 
@@ -33,7 +33,7 @@
 
 ```git checkout  ``` - Changes the branch simply insert the branch after EX: ```git checkout example_branch ```
 
-<center>Options</center> 
+<p align="center"> Options</p> 
 
 ***
 -b : creates a new branch ```git checkout -b new_branch```
